@@ -62,11 +62,12 @@ Usage
 -The app will display whether the customer is high or low risk with the probability
 
 Model Performance
+
 Trains three ML models: Logistic Regression, Decision Tree, and Random Forest
 Evaluates models using Accuracy, ROC-AUC Score, and Confusion Matrix
 Random Forest model results:
-   Accuracy: ~81%
-   ROC-AUC: ~0.77
+   -Accuracy: ~81%
+   -ROC-AUC: ~0.77
 Best balance between precision and recall for credit default prediction
 Includes visual ROC curves for performance comparison
 
